@@ -1,4 +1,4 @@
-🚀 MERN Stack Developer | Full-Stack Web Developer</br>
+<h1>🚀 MERN Stack Developer | Full-Stack Web Developer</h1></br>
 Hi there! 👋 I’m Amir Majeed, a passionate MERN Stack Developer who loves building scalable web applications using MongoDB, Express.js, React.js, and Node.js.</br>
 
 💻 Tech Stack:</br>
