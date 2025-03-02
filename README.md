@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @AmirMaeed
-- 👀 I’m interested in Mern- stack
-- 🌱 I’m currently learning next js
-- 💞️ I’m looking to collaborate on javascript
-- 📫 How to reach me amirmajeed4905@gmail.com
-- 😄 Pronouns: ...
-  
+🚀 MERN Stack Developer | Full-Stack Web Developer
+Hi there! 👋 I’m Amir Majeed, a passionate MERN Stack Developer who loves building scalable web applications using MongoDB, Express.js, React.js, and Node.js.
 
-<!---
-AmirMaeed/AmirMaeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech Stack:
+🔹 Frontend: React.js, Next.js, Redux, Tailwind CSS
+🔹 Backend: Node.js, Express.js, RESTful APIs
+🔹 Database: MongoDB, Firebase
+🔹 Tools: Git, GitHub, Postman, Docker
+🔹 Deployment: Vercel, Netlify, Render, AWS
+
+💡 Always learning and exploring new technologies in full-stack development.
+
+📌 Check out my repositories and let's collaborate! 🚀
+
